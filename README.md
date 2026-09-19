@@ -40,5 +40,5 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/antekdagubasah/antekdagubasah/main/assets/wolf_full.jpg" width="360" alt="the wolf" />
+  <img src="https://raw.githubusercontent.com/antekdagubasah/antekdagubasah/main/assets/wolf_sad.gif" width="360" alt="the wolf" />
 </div>
